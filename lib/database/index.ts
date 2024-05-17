@@ -1,7 +1,6 @@
-import { error } from "console";
 import mongoose from "mongoose";
 
-let MONGODB_URI = process.env.MONGODB_URI;
+const MONGODB_URI = process.env.MONGODB_URI;
 
 let cached = (global as any).mongoose || { conn: null, promise: null };
 
