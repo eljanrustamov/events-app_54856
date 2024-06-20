@@ -18,6 +18,12 @@ EventsApp is a events platform designed to host, connect, and celebrate events o
 
 ## TEAM MEMBERS: ELJAN RUSTAMOV 54856
 
+
+
+![Screenshot 2024-06-20 at 5 16 22 AM](https://github.com/eljanrustamov/events-app_54856/assets/71334500/6c543acd-962e-43e1-afe8-586eadd71af8)
+
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -67,6 +73,10 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 STRIPE_WEBHOOK_SECRET=your_stripe_webhook_secret
 
 NEXT_PUBLIC_SERVER_URL=http://localhost:3000/
+
+
+
+
 
 4. Start the development server:
 
