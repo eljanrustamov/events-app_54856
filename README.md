@@ -16,12 +16,6 @@ EventsApp is a events platform designed to host, connect, and celebrate events o
 
 ## LIVE WATCH -> https://events-app-drab.vercel.app/
 
-## TEAM MEMBERS: ELJAN RUSTAMOV 54856
-
-
-
-![Screenshot 2024-06-20 at 5 16 22 AM](https://github.com/eljanrustamov/events-app_54856/assets/71334500/6c543acd-962e-43e1-afe8-586eadd71af8)
-
 
 
 ## Getting Started
